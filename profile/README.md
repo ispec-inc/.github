@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, We Are ispec</h1>
+
+[![Image from Gyazo](https://i.gyazo.com/40afcf5dbe67cd88c3bbe3f493624d9e.png)](https://gyazo.com/40afcf5dbe67cd88c3bbe3f493624d9e)
 <h3 align="center">Tech company working for Healthcare.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ispec-inc&label=Profile%20views&color=0e75b6&style=flat" alt="ispec-inc" /> </p>
