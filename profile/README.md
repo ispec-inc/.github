@@ -1,6 +1,6 @@
 <h1 align="center">ispec-inc</h1>
 
-[![Image from Gyazo](https://i.gyazo.com/40afcf5dbe67cd88c3bbe3f493624d9e.png)](https://gyazo.com/40afcf5dbe67cd88c3bbe3f493624d9e)
+[![メイン画像](https://github.com/ispec-inc/.github/images/main.jpg?raw=true)
 
 <p align="left"> <a href="https://twitter.com/ispec1nc" target="blank"><img src="https://img.shields.io/twitter/follow/ispec1nc?logo=twitter&style=for-the-badge" alt="ispec1nc" /></a> </p>
 
